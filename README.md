@@ -24,6 +24,8 @@ python -m pip install numpy pandas matplotlib scikit-learn jupyter
 
 ## Data files
 
+The CSV datasets can be downloaded here: [Download the CSV files](https://tinyurl.com/4h5mahd5). Place each file beside the notebooks using the expected filename listed below.
+
 Three notebooks read datasets from the current working directory. These data files are not included in this repository, so provide them before running the corresponding notebook:
 
 - `2 degree polynomial.ipynb` expects `Degree 2 Polynomial.csv` with `X` and `Y` columns.
